@@ -15,7 +15,7 @@ This mobile app will provide users with real-time and forecasted weather informa
 
 **API Services:**
 
-The app will integrate with a weather API service like OpenWeatherMap ([https://openweathermap.org/api](https://openweathermap.org/api)). These service offer various weather data points through well-documented APIs, typically in JSON format.
+The app will integrate with a weather API service like OpenWeatherMap ([https://openweathermap.org/api](https://openweathermap.org/api)). The service offer various weather data points through well-documented APIs, typically in JSON format.
 
 **Benefits:**
 
