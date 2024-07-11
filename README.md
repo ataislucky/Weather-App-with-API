@@ -1,4 +1,7 @@
 ## Weather App with API Services
+![me](https://github.com/ataislucky/weather-app-with-api/blob/main/flutter_1.jpg)
+![me](https://github.com/ataislucky/weather-app-with-api/blob/main/flutter_2.jpg)
+![me](https://github.com/ataislucky/weather-app-with-api/blob/main/flutter_3.jpg)
 
 This mobile app will provide users with real-time and forecasted weather information for their desired locations. It will leverage an external weather API service to retrieve the data.
 
